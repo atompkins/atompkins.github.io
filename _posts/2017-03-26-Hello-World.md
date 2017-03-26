@@ -10,7 +10,7 @@ Getting a blog site up and running quickly
 
 syntax highlighting
 
-```
+~~~
 function closestTr(el) { // Native
   if (el.tagName === 'TR') {
     if (el.rowIndex % 6 === 0) {return el;}
@@ -19,4 +19,4 @@ function closestTr(el) { // Native
   if (el.tagName === 'TABLE') {return;}
   return closestTr(el.parentNode);
 }
-```
+~~~
