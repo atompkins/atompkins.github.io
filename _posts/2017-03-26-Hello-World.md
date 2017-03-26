@@ -3,7 +3,6 @@ layout: post
 title: Up and running!
 published: true
 ---
-
 ### First Post
 
 Getting a blog site up and running quickly
