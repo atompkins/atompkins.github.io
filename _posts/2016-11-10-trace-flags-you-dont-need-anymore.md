@@ -2,7 +2,7 @@
 published: true
 layout: post
 ---
-##Trace flags that you don't need any more
+## Trace flags that you don't need any more
 
 SQL2016 has done away with trace flags so you won't be needing any of these in
 future. These are the trace flags I use on all installations and why.
