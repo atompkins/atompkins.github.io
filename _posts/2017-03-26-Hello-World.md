@@ -8,7 +8,7 @@ Getting a blog site up and running quickly
 
 [From this](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
 
-syntax highlighting
+syntax highlighting 2
 
 ~~~
 function closestTr(el) { // Native
