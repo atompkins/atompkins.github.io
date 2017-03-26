@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+layout: post
 ---
 ##Trace flags that you don't need any more
 
